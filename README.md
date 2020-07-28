@@ -8,3 +8,7 @@ https://towardsdatascience.com/multivariate-linear-regression-in-python-step-by-
 
 
 Cost function is Idea : choose Thita 0 , theta 1 so that h theta is close to y for our traiing examples (x,y)QA
+
+Linear Regression
+
+https://blog.bigml.com/category/algorithms/linear-regression/
