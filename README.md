@@ -12,3 +12,5 @@ Cost function is Idea : choose Thita 0 , theta 1 so that h theta is close to y f
 Linear Regression
 
 https://blog.bigml.com/category/algorithms/linear-regression/
+
+https://ml-cheatsheet.readthedocs.io/en/latest/calculus.html
